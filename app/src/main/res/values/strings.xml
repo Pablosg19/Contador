@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="texto_cero">0</string>
+    <string name="tx_toast">TOAST</string>
+    <string name="bt_count">CONTAR</string>
+    <string name="bt_reset">RESET</string>
+    <string name="tx_mensaje">Bienvenidos</string>
+</resources>
